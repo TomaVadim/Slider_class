@@ -1,5 +1,3 @@
-import { importCss } from "./import.js";
-
 importCss('css/style.css');
 
 const left = document.querySelector('.left');
